@@ -2,6 +2,8 @@
 
 # How to
 
+[back](../)
+
 ## Do anything
 Doing anything is almost as easy as doing nothing. It's just really picking anything and doing that.
 
